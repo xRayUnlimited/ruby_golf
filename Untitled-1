@@ -1,0 +1,17 @@
+def cipher (str, num)
+'abc'
+3
+end
+#caesar cipher
+
+
+def cipher (str, num)
+[[1,2] [3,4]]
+
+end
+
+
+def sum_arr(arr)
+summ = 0
+summ_arr.each do |el|
+arr.reduce()
