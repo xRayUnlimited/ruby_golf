@@ -4,6 +4,6 @@
 # Spaces do not count. 
 # Capitols are not the same as lowercase
 
-def lovetest
+def lt
     
 end
